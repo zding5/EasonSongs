@@ -1,0 +1,3 @@
+* If parent element is set to zero size (height or width), even though the children would show but cannot be accessed by mouse.
+
+* I'm not quite sure but when you have z-index specified, and set hover say z=4 element and try to change z<4 elements, the browser won't render the effect. I wonder how to solve this problem. (?)
